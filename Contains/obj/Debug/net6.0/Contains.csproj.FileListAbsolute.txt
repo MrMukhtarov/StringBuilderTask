@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Contains\Contains\bin\Debug\net6.0\Contains.exe
+C:\Users\hp\Desktop\Contains\Contains\bin\Debug\net6.0\Contains.deps.json
+C:\Users\hp\Desktop\Contains\Contains\bin\Debug\net6.0\Contains.runtimeconfig.json
+C:\Users\hp\Desktop\Contains\Contains\bin\Debug\net6.0\Contains.dll
+C:\Users\hp\Desktop\Contains\Contains\bin\Debug\net6.0\Contains.pdb
+C:\Users\hp\Desktop\Contains\Contains\obj\Debug\net6.0\Contains.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Contains\Contains\obj\Debug\net6.0\Contains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Contains\Contains\obj\Debug\net6.0\Contains.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Contains\Contains\obj\Debug\net6.0\Contains.AssemblyInfo.cs
+C:\Users\hp\Desktop\Contains\Contains\obj\Debug\net6.0\Contains.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Contains\Contains\obj\Debug\net6.0\Contains.dll
+C:\Users\hp\Desktop\Contains\Contains\obj\Debug\net6.0\refint\Contains.dll
+C:\Users\hp\Desktop\Contains\Contains\obj\Debug\net6.0\Contains.pdb
+C:\Users\hp\Desktop\Contains\Contains\obj\Debug\net6.0\Contains.genruntimeconfig.cache
+C:\Users\hp\Desktop\Contains\Contains\obj\Debug\net6.0\ref\Contains.dll
